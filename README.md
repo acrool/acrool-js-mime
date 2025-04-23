@@ -1,7 +1,7 @@
-# Acrool JS Utils
+# Acrool JS MIME
 
 <a href="https://acrool-js-mime.pages.dev/" title="Acrool JS Utils - This is a commonly used JS toolbox, designed to facilitate rapid daily development.">
-    <img src="https://raw.githubusercontent.com/acrool/acrool-js-mime/main/example/public/og.webp" alt="Acrool JS Utils Logo"/>
+    <img src="https://raw.githubusercontent.com/acrool/acrool-js-mime/main/example/public/og.png" alt="Acrool JS Utils Logo"/>
 </a>
 
 <p align="center">
@@ -19,10 +19,6 @@
 </div>
 
 
-## Features
-
-type use `strictNullChecks` and `strictNullChecks`
-
 ## Installation
 
 ```bash
@@ -34,16 +30,14 @@ yarn add @acrool/js-mime
 These are examples of imports for various types
 
 ```tsx
-import {mimeType2extname} from 'acrool-js-mime';
+import {mimeType2extname, extname2mimeType} from 'acrool-js-mime';
 
 mimeType2extname('image/jpeg');
 // jpg
 
+extname2mimeType('jpg');
+// image/jpeg
 ```
-
-## Add module
-./build-post-processors.js
-
 
 # Publishing
 
