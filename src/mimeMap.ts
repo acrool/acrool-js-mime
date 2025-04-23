@@ -2,10 +2,6 @@ interface IMimeType {
     [mimeType: string]: string[],
 }
 
-// [
-//   [ 'application/acrobat', ['pdf'] ],
-//   [ 'application/andrew-inset', ['ez']' ]
-// ]
 export const mimeTypeMap: IMimeType = {
     'application/acrobat': ['pdf'],
     'application/andrew-inset': ['ez'],
