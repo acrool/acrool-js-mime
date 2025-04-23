@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.2](https://github.com/acrool/acrool-js-mime/compare/v2.3.1...v2.3.2) (2025-04-23)
+
 ### [2.3.1](https://github.com/acrool/acrool-js-mime/compare/v2.3.0...v2.3.1) (2025-04-23)
 
 ## [2.3.0](https://github.com/imagine10255/acrool-js-mime/compare/v2.3.0-alpha.1...v2.3.0) (2023-11-29)
